@@ -1,8 +1,40 @@
-# React + Vite
+✅ Retro Todo App
+A minimalist Retro-style Todo App built with React.js and custom CSS. Clean UI, old-school vibes, and all the core features you'd expect from a todo list—just with more nostalgia.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧠 Features
+Add, delete, and check off tasks
 
-Currently, two official plugins are available:
+Classic retro UI styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive and mobile-friendly
+
+State persists using local storage
+
+🛠️ Tech Stack
+React.js – Functional components + hooks
+
+CSS – Custom retro-style design
+
+LocalStorage – For saving tasks
+
+✅ Retro Todo App
+A minimalist Retro-style Todo App built with React.js and custom CSS. Clean UI, old-school vibes, and all the core features you'd expect from a todo list—just with more nostalgia.
+
+🧠 Features
+Add, delete, and check off tasks
+
+Classic retro UI styling
+
+Responsive and mobile-friendly
+
+State persists using local storage
+
+🛠️ Tech Stack
+React.js – Functional components + hooks
+
+CSS – Custom retro-style design
+
+LocalStorage – For saving tasks
+
+📸 Screenshots
+![alt text](image.png)
