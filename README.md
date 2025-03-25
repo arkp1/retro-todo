@@ -46,5 +46,9 @@ A minimalist Retro-style Todo App built with React.js and custom CSS. Clean UI, 
 
 - LocalStorage – For saving tasks
 
+🚀 Live Demo
+
+retro-todo.vercel.app
+
 📸 Screenshots
 ![alt text](image.png)
